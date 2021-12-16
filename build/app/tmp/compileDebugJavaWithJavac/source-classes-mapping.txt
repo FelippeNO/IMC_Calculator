@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/calculadora/imc/calculadoraimc/MainActivity.java
+ com.calculadora.imc.calculadoraimc.MainActivity
+com/calculadora/imc/calculadoraimc/BuildConfig.java
+ com.calculadora.imc.calculadoraimc.BuildConfig
