@@ -1,6 +1,11 @@
-# calculadoraimc
+# IMC_CALCULATOR
 
-Este software calcula o IMC.
+Este aplicativo Mobile cumpre o papel de calcular o IMC (Índice de Massa Corpórea) do Usuário, bem como gravar os dados numa API.
+O usuário pode acessar os dados que foram enviados para essa API, numa outra tela que mostra as gravações.
+
+This Mobile application fulfills the role of calculating the User's BMI (Body Mass Index), as well as recording the data in an API.
+The user can access the data that were sent to this API, in another screen that shows the recordings.
+
 
 ## Getting Started
 
