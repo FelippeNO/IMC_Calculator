@@ -2,7 +2,7 @@
 
 Português: 
 
-Este aplicativo Mobile cumpre o papel de calcular o IMC (Índice de Massa Corpórea) do Usuário, bem como gravar os dados numa API.
+Este aplicativo Mobile cumpre o papel de calcular o IMC (Índice de Massa Corpórea) do Usuário, bem como gravar os dados numa API aberta.
 O usuário pode acessar os dados que foram enviados para essa API, numa outra tela que mostra as gravações.
 
 English:
